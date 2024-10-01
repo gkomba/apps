@@ -6,3 +6,6 @@ Slack;apps/initial_apps/slack.png;version 1;apps/bin/sa54sdlied;hfhbf
 Firefox;apps/initial_apps/firefox.png;version 1;apps/bin/dfghgh34lied;jbfjf
 GitHub;apps/initial_apps/github.png;version 2;apps/bin/desligar34lied;dkhfk
 SoundCloud;apps/initial_apps/soundcloud.png;version 5;apps/bin/dfrr3456lied;nfjkbf
+Firefox;apps/initial_apps/firefox.png;version 1;apps/bin/dfghgh34lied;jbfjf
+GitHub;apps/initial_apps/github.png;version 2;apps/bin/desligar34lied;dkhfk
+SoundCloud;apps/initial_apps/soundcloud.png;version 5;apps/bin/dfrr3456lied;nfjkbf
