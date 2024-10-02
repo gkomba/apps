@@ -1,0 +1,2 @@
+so_lond|apps/initial_apps/so_lond.png|vesrion 7|7|https://github.com/gkomba/so_lond.git|7
+minicraft|apps/initial_apps/minicraft.png|version 6|6|https://github.com/lhabacuc/minicraft.git|1
