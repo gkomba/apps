@@ -1,11 +1,3 @@
-desligar|apps/initial_apps/desligar.png|version 1|https://github.com/gkomba/desligar.git|apps/bin/desligar
-so_lond|apps/initial_apps/so_lond.png|version 7|https://github.com/gkomba/so_lond.git so_long|apps/bin/so_lond
+so_lond|apps/initial_apps/so_lond.png|version 1|https://github.com/gkomba/so_lond.git so_long
 minicraft|apps/initial_apps/minicraft.png|version 1|https://github.com/lhabacuc/minicraft.git
-Google-Chrome|apps/initial_apps/chrome.png|version 1|apps/bin/desligarew34lied
-Slack|apps/initial_apps/slack.png|version 1|apps/bin/sa54sdlied|hfhbf
-Firefox|apps/initial_apps/firefox.png|version 1|apps/bin/dfghgh34lied|jbfjf
-GitHub|apps/initial_apps/github.png|version 1|apps/bin/desligar34lied|dkhfk
-SoundCloud|apps/initial_apps/soundcloud.png|version 1|apps/bin/dfrr3456lied|nfjkbf
-Firefox|apps/initial_apps/firefox.png|version 1|apps/bin/dfghgh34lied|jbfjf
-GitHub|apps/initial_apps/github.png|version 1|apps/bin/desligar34lied|dkhfk
-SoundCloud|apps/initial_apps/soundcloud.png|version 1|apps/bin/dfrr3456lied|nfjkbf
+desligar|apps/initial_apps/desligar.png|version 1|https://github.com/gkomba/desligar.git
