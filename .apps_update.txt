@@ -1,1 +1,1 @@
-so_lond|apps/initial_apps/so_lond.png|version 1|https://github.com/gkomba/so_lond.git so_long
+so_lond|apps/initial_apps/so_lond.png|vesrion 7|7|https://github.com/gkomba/so_lond.git|7
