@@ -3,3 +3,4 @@ minicraft|apps/initial_apps/minicraft.png|version 1|https://github.com/lhabacuc/
 desligar|apps/initial_apps/desligar.png|version 1|https://github.com/gkomba/desligar.git|oque é tig com o anti tig. hahaha!
 master-key|apps/initial_apps/master-key.png|version 1|master-key|nao existe app que nao abre comigo!
 Universo|apps/initial_apps/Universo.png|version 1|https://github.com/Dchissal/Universo.git|o universo é ainda um misterio, mas aqui voce consegue ve lo!
+Naver|apps/initial_apps/Naver.png|version 1|https://github.com/lhabacuc/Naver.git|Um navegador leve e intuitivo, com interface minimalista. Possui barra de endereços central, botões de voltar, avançar e recarregar, além de um menu de favoritos.
