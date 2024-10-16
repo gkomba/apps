@@ -1,6 +1,8 @@
-|>>>> CAMP    1 <<<<------>>>> CAMP    2 <<<<------>>>> CAMP    3 <<<<------>>>> CAMP    4 <<<<------>>>> CAMP    5 <<<<|
-|    APP NAME       *****      APP IMAGE PATH  *****   APP VERSION     *****   APP GITHUB LINK  *****   APP DESCRITION  |
-|>>>> CAMP    1 <<<<------>>>> CAMP    2 <<<<------>>>> CAMP    3 <<<<------>>>> CAMP    4 <<<<------>>>> CAMP    5 <<<<|
+>>>> CAMP    1 == APP NAME
+>>>> CAMP    2 == APP IMAGE PATH
+>>>> CAMP    3 == APP VERSION
+>>>> CAMP    4 == APP GITHUB LINK
+>>>> CAMP    5 == APP DESCRITION
 so_lond|apps/initial_apps/so_lond.png|version 1|https://github.com/gkomba/so_lond.git so_long|so long é um jogo muito divertido!
 minicraft|apps/initial_apps/minicraft.png|version 1|https://github.com/lhabacuc/minicraft.git|apriveite o minicratf!! crie o seu mundo!
 desligar|apps/initial_apps/desligar.png|version 1|https://github.com/gkomba/desligar.git|oque é tig com o anti tig. hahaha!
