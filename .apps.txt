@@ -1,3 +1,6 @@
+|>>>> CAMP    1 <<<<------>>>> CAMP    2 <<<<------>>>> CAMP    3 <<<<------>>>> CAMP    4 <<<<------>>>> CAMP    5 <<<<|
+|    APP NAME       *****      APP IMAGE PATH  *****   APP VERSION     *****   APP GITHUB LINK  *****   APP DESCRITION  |
+|>>>> CAMP    1 <<<<------>>>> CAMP    2 <<<<------>>>> CAMP    3 <<<<------>>>> CAMP    4 <<<<------>>>> CAMP    5 <<<<|
 so_lond|apps/initial_apps/so_lond.png|version 1|https://github.com/gkomba/so_lond.git so_long|so long é um jogo muito divertido!
 minicraft|apps/initial_apps/minicraft.png|version 1|https://github.com/lhabacuc/minicraft.git|apriveite o minicratf!! crie o seu mundo!
 desligar|apps/initial_apps/desligar.png|version 1|https://github.com/gkomba/desligar.git|oque é tig com o anti tig. hahaha!
@@ -5,6 +8,5 @@ master-key|apps/initial_apps/master-key.png|version 1|master-key|nao existe app 
 Universo|apps/initial_apps/Universo.png|version 1|https://github.com/Dchissal/Universo.git|o universo é ainda um misterio, mas aqui voce consegue ve lo!
 Naver|apps/initial_apps/Naver.png|version 1|https://github.com/lhabacuc/Naver.git|Um navegador leve e intuitivo, com interface minimalista. Possui barra de endereços central, botões de voltar, avançar e recarregar, além de um menu de favoritos.
 fdf|apps/initial_apps/fdf.png|version 1|https://github.com/Dchissal/fdf.git|O projeto FdF, abreviação de "Fil de Fer" (que significa "fio de arame" em francês), é um dos projetos da formação da 42, focado em renderização gráfica básica em C. O principal objetivo do FdF é desenvolver uma visualização 3D simples de mapas de elevação em um plano isométrico, onde a profundidade é representada de forma a dar uma noção de perspectiva. Isso envolve renderizar dados bidimensionais (representando altitudes) em uma projeção tridimensional.
-falling_sand|apps/initial_apps/falling_sand.png|version 1|https://github.com/gecarval/falling_sand.git|A falling sand game made in C using the minilibX as the API CELLULAR AUTOMATON FALLING SAND.
-A game where there a bunch of interactions between diferent particles like soap bubbles, evaporation, acid, melting stone, glass creation, etc. It as a some complex physics as colission, cinetics, momentum, heat, etc.
+falling_sand|apps/initial_apps/falling_sand.png|version 1|https://github.com/gecarval/falling_sand.git|A falling sand game made in C using the minilibX as the API CELLULAR AUTOMATON FALLING SAND. A game where there a bunch of interactions between diferent particles like soap bubbles, evaporation, acid, melting stone, glass creation, etc. It as a some complex physics as colission, cinetics, momentum, heat, etc.
 elaIa|apps/initial_apps/elaIa.png|version 1|https://github.com/Dchissal/elaIa.git|ola eu sou a ela
